@@ -1,0 +1,15 @@
+c:\users\cs2-09\documents\visual studio 2015\Projects\SP\SP\bin\Debug\SP.exe.config
+c:\users\cs2-09\documents\visual studio 2015\Projects\SP\SP\bin\Debug\SP.exe
+c:\users\cs2-09\documents\visual studio 2015\Projects\SP\SP\bin\Debug\SP.pdb
+c:\users\cs2-09\documents\visual studio 2015\Projects\SP\SP\obj\Debug\SP.csprojResolveAssemblyReference.cache
+c:\users\cs2-09\documents\visual studio 2015\Projects\SP\SP\obj\Debug\SP.Open.resources
+c:\users\cs2-09\documents\visual studio 2015\Projects\SP\SP\obj\Debug\SP.Properties.Resources.resources
+c:\users\cs2-09\documents\visual studio 2015\Projects\SP\SP\obj\Debug\SP.csproj.GenerateResource.Cache
+c:\users\cs2-09\documents\visual studio 2015\Projects\SP\SP\obj\Debug\SP.exe
+c:\users\cs2-09\documents\visual studio 2015\Projects\SP\SP\obj\Debug\SP.pdb
+c:\users\cs2-09\documents\visual studio 2015\Projects\SP\SP\obj\Debug\SP.Login.resources
+c:\users\cs2-09\documents\visual studio 2015\Projects\SP\SP\obj\Debug\SP.TD.resources
+C:\Users\CS2-09\Documents\Visual Studio 2015\Projects\SP\SP\obj\Debug\SP.Insert.resources
+C:\Users\CS2-09\Documents\Visual Studio 2015\Projects\SP\SP\obj\Debug\SP.Manager.resources
+C:\Users\CS2-09\Documents\Visual Studio 2015\Projects\SP\SP\obj\Debug\SP.Find.resources
+C:\Users\CS2-09\Documents\Visual Studio 2015\Projects\SP\SP\obj\Debug\SP.Member.resources
